@@ -1,6 +1,6 @@
 package For2;
 
-public class name {
+public class newNamegi {
 	public static void main(String[] args) {
 		String num="ragul";
 		char nums[]=num.toCharArray();
@@ -11,8 +11,10 @@ public class name {
 		char e=nums[4];
 		char val[]= {a,b,c,d,e} ;
 		for(int i=0;i<val.length;i++) {
-			System.out.println(val[i]);
+			//System.out.println(val[i]);
+			
 		}
+		System.out.println(val);
 			
 		
 	}
